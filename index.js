@@ -8,6 +8,8 @@ $( document ).ready(function() {
     .append('<script src="http://code.jquery.com/jquery-2.1.1.min.js" />')
     .append('<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" />')
     .append('<script src="/js/phaser.min.js" />')
+    .append('<link rel="stylesheet" href="//example.com/path/to/video-js.css" type="text/css" />')
+    .append('<script src="//example.com/path/to/video.js" />')
     .append('<script src="/js/game.js" />')
     .append('<link rel="stylesheet" href="css/main.css" type="text/css" />');
 
