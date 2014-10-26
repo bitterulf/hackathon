@@ -4,9 +4,12 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start":  "beefy index.js --live",
+    "start": "beefy index.js --live",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sebastian Kannegiesser",
-  "license": "-"
+  "license": "-",
+  "dependencies": {
+    "jquery": "^2.1.1"
+  }
 }
