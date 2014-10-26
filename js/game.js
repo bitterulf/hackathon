@@ -1,5 +1,5 @@
 
-var game = new Phaser.Game(800, 600, Phaser.AUTO, 'phaser-example', { preload: preload, create: create });
+var game = new Phaser.Game(640, 264, Phaser.AUTO, 'phaser-example', { preload: preload, create: create });
 
 var emitter;
 
