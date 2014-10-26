@@ -2,8 +2,9 @@
   "name": "hackathon",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
+    "start":  "beefy index.js --live",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sebastian Kannegiesser",
